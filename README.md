@@ -1,7 +1,7 @@
 
 # Hey, I'm Mohsin!👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsinFarooq&theme=radical)
+
 
 
 ## 🚀 About Me
@@ -13,3 +13,4 @@ BCA Student
 ## 🛠 Skills
 
 Git. Github. C Programming. 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsinFarooq&theme=radical)
