@@ -1,7 +1,7 @@
 
 # Hey, I'm Mohsin!👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= MohsinFarooq &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohsinFarooq&theme=radical)
 
 
 ## 🚀 About Me
