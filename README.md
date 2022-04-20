@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I'm a Learner. Programmer.
 Currently learning Web Development. 
-BCA Student
+
 
 
 ## 🛠 Skills
