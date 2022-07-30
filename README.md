@@ -22,7 +22,7 @@ BootStrap, <code><img height="20" src="https://p.kindpng.com/picc/s/27-278320_bo
 JQuery,<code><img height="20" src="https://p.kindpng.com/picc/s/444-4449992_circle-etsy-icon-hd-png-download.png"></code> </br>
 Git, <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></br>
 Github,<code><img height="20" src="https://p.kindpng.com/picc/s/181-1817010_github-github-icon-hd-png-download.png"></code> </br>
-C Programming, <code>< <img height="20" src="https://p.kindpng.com/picc/s/355-3559027_c-programming-language-logo-clipart-png-download-c.png"></code></br>
+C Programming, <code> <img height="20" src="https://p.kindpng.com/picc/s/355-3559027_c-programming-language-logo-clipart-png-download-c.png"></code></br>
 C++ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code></br>
 
 
