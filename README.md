@@ -8,7 +8,7 @@
 ## 🚀 About Me
 I'm a passionate, self taught Web Developer from Kashmir. I am currently pursuing Bachelor of Computer Applications from [Cluster University Srinagar](https://www.cusrinagar.edu.in/).
 
-I'm a Learner. Web Developer. Programmer.
+ **Learner. Web Developer. Programmer.**
 Currently learning Web Development. 
 
 
