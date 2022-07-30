@@ -5,14 +5,14 @@
 
 
 ## 🚀 About Me
-I'm a Learner. Programmer.
+I'm a Learner. Web Developer. Programmer.
 Currently learning Web Development. 
 
 
 
 ## 🛠 Skills
 
-Git. Github. C Programming. 
+HTML, CSS, JavaScript, BootStrap, JQuery, Git, Github, C Programming, C++
 
 
 
