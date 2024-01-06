@@ -1,5 +1,5 @@
 # ℹ About Me: 
-<h1 align="center">Hi, I'm Mohsin Farooq 👋</h1><h4 align="center"> Angular Developer From Kashmir</h4><img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/15628387/media/13377c0dfb5e4adbfec1d646f20c9206.png?compress=1&resize=768x576&vertical=top" alt="Coding" width="400"><br><br><p align="left"> </p> 💻 I’m a passionate front-end developer focused in Angular.<br><br>⚡  I love to read, write and play football ⚽ 
+<h1 align="center">Hi, I'm Mohsin Farooq 👋</h1><h4 align="center"> Software Developer From Kashmir</h4><img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/15628387/media/13377c0dfb5e4adbfec1d646f20c9206.png?compress=1&resize=768x576&vertical=top" alt="Coding" width="400"><br><br><p align="left"> </p> 💻 I’m a passionate front-end developer focused in Angular.<br><br>⚡  I love to read, write and play football ⚽ 
 
 
 
